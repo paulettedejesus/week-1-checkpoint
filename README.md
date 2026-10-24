@@ -16,17 +16,16 @@ https://paulettedejesus.github.io/week-1-checkpoint/
 | 4 | Added an About me section | Add about me section to index.html | main |
 | 5 | Added a list of things I like | Added things I like Section with an unordered list | main |
 | 6 | Added my goals | Added My Goals with Ordered List | main |
-| 7 | Added an My Hobbies section | Added My Hobbies to index.html | main |
-| 8 | Added stylesheet | Added style.css link | main |
-| 9 | Added an Image folder | Added image folder | main |
-  10 | Added an Image  section | Image added to image folder | main |
-| 11 | Added an Image | Replace image of books in images folder | main |
-| 12 | Added an Image section| reuploaded books image to images folder | main |
-| 13 | Added a Url section | Url added to paragraph about books | main |
-| 14 | Added a citation paragraph section | Citation added for image added to index.html | main |
-| 15 | Added a Url section | Added Crochet coach webpage to list of sites | main |
-| 16 | Added a Image section | Added image of Crochet tool yarn and blanket  | main |
-| 17 | Added a Image section | Added image to index.html | main |
-| 18 | Added a Image section | Added image to index.html | main |
-| 19 | Changed location of URl |Moved url for crochet website on index.html | main |
-| 20 | Updated ACP Log |Updated ACP Log | main |
+| 7 | Added an My Hobbies section | Added My Hobbies to index.html | main 
+| 10 | Added stylesheet | Added style.css link | main |
+| 11 | Added an Image folder | Added image folder | main |
+  12 | Added an Image  section | Image added to image folder | main |
+| 13 | Added an Image | Replace image of books in images folder | main |
+| 14 | Added an Image section| reuploaded books image to images folder | main |
+| 15 | Added a Url section | Url added to paragraph about books | main |
+| 16 | Added a citation paragraph section | Citation added for image added to index.html | main |
+| 17 | Added a Url section | Added Crochet coach webpage to list of sites | main |
+| 18 | Added a Image section | Added image of Crochet tool yarn and blanket  | main |
+| 19 | Added a Image section | Added image to index.html | main |
+| 20 | Added a Image section | Added image to index.html | main |
+| 21 | Changed location of URl |Moved url for crochet website on index.html | main |

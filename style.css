@@ -1,8 +1,9 @@
 h1 {
     color: blueviolet;
-    text-decoration: dotted;
-}
+    text-decoration: underline;
+    font-family: Lucida Sans;
 
-h2 [
+h2 {
+color: blueviolet;
+}
     
-]

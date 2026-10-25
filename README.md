@@ -29,3 +29,9 @@ https://paulettedejesus.github.io/week-1-checkpoint/
 | 19 | Added a Image section | Added image to index.html | main |
 | 20 | Added a Image section | Added image to index.html | main |
 | 21 | Changed location of URl |Moved url for crochet website on index.html | main |
+| 22 | Added color to index.html | added color h1 | main |
+| 23 | Added text decoration to index.html | text decoration added to h1 | main |
+| 24 | Added color, underline, font family to index.html |text decoration underline added font family lucida sans h2 color  | main |
+| 25 | Added color to index.html | re added he color and h1 font family lucida sans | main |
+| 26 | Added style index.html | added style to index.html h1 and h2 body | main |
+| 27 | Added commits to readme  | README | main |

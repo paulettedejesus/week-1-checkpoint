@@ -2,8 +2,17 @@ h1 {
     color: blueviolet;
     text-decoration: underline;
     font-family: Lucida Sans;
+    font-style: italic;
+
 }
 
 h2 {
 color: blueviolet;
+font-style: italic;
+font-family: tahoma;
+
 }
+
+body {
+    background-color: honeydew;
+    }
